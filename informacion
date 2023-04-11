@@ -1,0 +1,7 @@
+Petición de Mensajería de Paciente 
+ http://20.169.244.108:8082/hce/mensajeriapaciente/consulta 
+
+Caso de Urgencia – Codificación
+http://20.169.244.108:8086/hce/pruebadiagnostico/consulta 
+
+Consulta de Personas Desaparecidas 
